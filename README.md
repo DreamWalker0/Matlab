@@ -1,3 +1,3 @@
 # Matlab
 
-#This repo contain a variety of Matlab scripts
+#This repo contains a variety of Matlab scripts
