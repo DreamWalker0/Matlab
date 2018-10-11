@@ -3,10 +3,12 @@
 %Jorge Guzman Nader
 %CBEE 102
 %02/26/2018
-%This program doubles the volume of a cube 
+%This program doubles the volume of a cube
+% 
 %Background: The Egyptians, Indians, and particularly the Greeks were aware of the problem of doubling  
-the volume of a cube and made many futile attempts at solving what they saw as an obstinate but soluble problem. However, 
+%the volume of a cube and made many futile attempts at solving what they saw as an obstinate but soluble problem. However, 
 %the nonexistence of a solution was finally proven by Pierre Wantzel in 1837. 
+%
 %*************************************************************************************************************************
 close all
 clear all
